@@ -1,8 +1,8 @@
-#Connecting to Justice via JusAccess using Linux
-_Last Updated: 2021/Feb/8_
-##Introduction
+# Connecting to Justice via JusAccess using Linux
+_ Last Updated: 2021/Feb/8 _
+## Introduction
 The following document details the steps needed to follow to be able to use JusAccess on Linux to connect to the Justice network. JusAccess requires that you use an authentication token device to do the login via JusAccess. The steps within this document detail how to setup the correct software to then allow running the various applications available via JusAccess once you have successfully logged in.
-##Installation Procedure
+## Installation Procedure
 1. Download the Citrix Workspace installation package (the exact package will depend on which flavor of Linux that you have):
 https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html
 
