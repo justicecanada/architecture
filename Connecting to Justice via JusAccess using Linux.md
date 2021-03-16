@@ -1,5 +1,5 @@
 # Connecting to Justice via JusAccess using Linux
-_ Last Updated: 2021/Feb/8 _
+_Last Updated: 2021/Feb/8_
 ## Introduction
 The following document details the steps needed to follow to be able to use JusAccess on Linux to connect to the Justice network. JusAccess requires that you use an authentication token device to do the login via JusAccess. The steps within this document detail how to setup the correct software to then allow running the various applications available via JusAccess once you have successfully logged in.
 ## Installation Procedure
