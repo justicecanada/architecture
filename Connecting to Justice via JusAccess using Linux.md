@@ -9,6 +9,7 @@ https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-lat
 2. Install the package. The specifics of this step will vary from Linux versions and platform. It is recommended that you install via the command line terminal to be able to see any warning or errors that might occur.
 
 3. In theory, you should be all set. If you get one of the following errors when trying to start an application via JusAccess, the follow the steps below to fix that error:
+4. 
 ![SSL Error](https://github.com/DenSarJus/architecture/images/ConnectingToJusticeViaJusAccessUsingLinux/ssl-error-1.png)
  
 Or
