@@ -9,20 +9,20 @@ https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-lat
 2. Install the package. The specifics of this step will vary from Linux versions and platform. It is recommended that you install via the command line terminal to be able to see any warning or errors that might occur.
 
 3. In theory, you should be all set. If you get one of the following errors when trying to start an application via JusAccess, the follow the steps below to fix that error:
-4. 
-![SSL Error](images/ConnectingToJusticeViaJusAccessUsingLinux/ssl-error-1.png)
  
-Or
+   ![SSL Error](images/ConnectingToJusticeViaJusAccessUsingLinux/ssl-error-1.png)
+ 
+   Or
 
-![Citrix Receiver Error](images/ConnectingToJusticeViaJusAccessUsingLinux/citrix-receiver-error-1.png)
+   ![Citrix Receiver Error](images/ConnectingToJusticeViaJusAccessUsingLinux/citrix-receiver-error-1.png)
 
-You should be able to fix the above error(s) by running these commands in a terminal window:
-```bash
-cd /opt/Citrix/ICAClient/keystore/
-sudo rm -rf cacerts
-sudo ln -s /etc/ssl/certs cacerts
-```
+   You should be able to fix the above error(s) by running these commands in a terminal window:
+   ```bash
+   cd /opt/Citrix/ICAClient/keystore/
+   sudo rm -rf cacerts
+   sudo ln -s /etc/ssl/certs cacerts
+   ```
 
 At this point, you should be able to run the applications that are available via JusAccess.
 
-:+1
+:+1:
