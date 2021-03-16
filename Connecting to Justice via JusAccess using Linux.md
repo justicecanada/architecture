@@ -10,11 +10,11 @@ https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-lat
 
 3. In theory, you should be all set. If you get one of the following errors when trying to start an application via JusAccess, the follow the steps below to fix that error:
 4. 
-![SSL Error](https://github.com/DenSarJus/architecture/images/ConnectingToJusticeViaJusAccessUsingLinux/ssl-error-1.png)
+![SSL Error](images/ConnectingToJusticeViaJusAccessUsingLinux/ssl-error-1.png)
  
 Or
 
-![Citrix Receiver Error](https://github.com/DenSarJus/architecture/images/ConnectingToJusticeViaJusAccessUsingLinux/citrix-receiver-error-1.png)
+![Citrix Receiver Error](images/ConnectingToJusticeViaJusAccessUsingLinux/citrix-receiver-error-1.png)
 
 You should be able to fix the above error(s) by running these commands in a terminal window:
 ```bash
